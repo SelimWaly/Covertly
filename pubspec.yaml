@@ -1,5 +1,5 @@
 name: covertly
-description: I am writing in this diary to tell my secret thoughts and feelings, to help me understand myself better, and to remember the important events of my life. Writing helps me be honest with myself and develop better self-acceptance. I hope that by reading this diary, you will learn more about me.
+description: Flutter Notes Application with Lock
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
